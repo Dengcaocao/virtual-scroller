@@ -1,0 +1,19 @@
+{
+  "name": "virtual-scroller",
+  "version": "1.0.0",
+  "description": "虚拟滚动",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dengcaocao/virtual-scroller.git"
+  },
+  "author": "Deng·草草<dengcaocao.dcc@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dengcaocao/virtual-scroller/issues"
+  },
+  "homepage": "https://github.com/Dengcaocao/virtual-scroller#readme"
+}
